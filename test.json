@@ -1,0 +1,13 @@
+{
+    "lista_canciones" : [
+        {
+            "Nombre":"Cancion 1",
+            "Autor":"Autor 1",
+            "Duración":"2:45"
+        },{
+           "Nombre":"Cancion 2",
+           "Autor":"Autor 2",
+           "Duración":"1:15" 
+        }
+    ]
+}
